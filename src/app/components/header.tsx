@@ -5,8 +5,8 @@ import Link from "next/link";
 import { useState } from "react";
 
 function Header() {
-  let [open, setOpen] = useState(false);
-  let toggle = () => {
+  const [open, setOpen] = useState(false);
+  const toggle = () => {
     setOpen(!open);
   };
 
