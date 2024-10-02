@@ -1,6 +1,5 @@
 import Image from "next/image"
 import kamran from "../images/kamran.png"
-import governor from "../images/governor.png"
 function Hero(){
     return(
          <div  className="w-[100%] flex sm:flex-col md:flex-col lg:flex-row xl:flex-row 2xl:flex-row justify-center items-center sm:pt-32 md:pt-20 lg:pt-20 xl:pt-20 2xl:pt-20 border-b-4 border-double border-gray-500 "
