@@ -3,7 +3,6 @@ import AdvanceCourses from "./components/advance";
 import Box from "./components/boxes";
 import Courses from "./components/courses";
 import Footer from "./components/footer";
-import Header from "./components/header";
 import Hero from "./components/hero";
 import Main from "./components/main";
 import OtherCourses from "./components/othercourses";

@@ -1,7 +1,5 @@
-import Link from "next/link"
-import { config } from '@fortawesome/fontawesome-svg-core';
-import '@fortawesome/fontawesome-svg-core/styles.css';
-config.autoAddCss = false;
+import Link from "next/link";
+/* eslint-disable @typescript-eslint/no-unused-vars */
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faYoutube, faLinkedin, faTiktok , faFacebook, faWhatsapp } from '@fortawesome/free-brands-svg-icons'; // Social icons
 
